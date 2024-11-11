@@ -42,6 +42,7 @@ class LinkedListIterator:
     def __init__(self):
         # TODO: set up the initial state (fields). 
         # You will need to add parameters to this constructor.
+        pass
 
     def __next__(self):
         # TODO: return the next item and update the state, 
